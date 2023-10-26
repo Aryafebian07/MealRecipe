@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="magenta">#FF005F</color>
+    <color name="violet">#800080</color>
+    <color name="redDark">#D9004C</color>
+    <color name="orange">#FFA500</color>
+    <color name="orangeDark">#FF4500</color>
+    <color name="pinkSoft">#FBF4F6</color>
+    <color name="pinkCarnation">#Ffa6c9</color>
+    <color name="paleBlack">#424140</color>
+    <color name="lemon">#Ff8c00</color>
+    <color name="lime">#BFFF00</color>
+
+    <color name="bg">#F6F6F6</color>
+    <color name="grayLight">#DDDDDD</color>
+    <color name="grayDark">#333333</color>
+    <color name="yellowLight">#faf6e9</color>
+    <color name="yellowDark">#b89b36</color>
+    <color name="red">#FF0000</color>
+    <color name="aqua">#00BCD4</color>
+    <color name="yellow">#FFC107</color>
+    <color name="green">#2fdf84</color>
+    <color name="greenDark">#013220</color>
+    013220
+    <color name="whiteSmoke">#f6f6f6</color>
+    <color name="darkSlategray">#202d3d</color>
+    <color name="darkSlategray70">#B3202d3d</color>
+    <color name="tartOrange">#F24C4C</color>
+    <color name="deepKoamaru">#363062</color>
+    <color name="metallicYellow">#FBCB0A</color>
+    <color name="charcoal">#354259</color>
+    <color name="shadowBlue">#7490A8</color>
+    <color name="pewterBlue">#92A9BD</color>
+    <color name="lotion">#fdfdfd</color>
+</resources>
