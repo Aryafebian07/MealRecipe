@@ -53,3 +53,9 @@ MealRecipe is a recipes app, which connects with [TheMealDB](https://www.themeal
 </table>
 
 ## APP ScreenShot
+-
+## Attributions
+<div>Icon made by 
+  <a href="https://www.flaticon.com/authors/surang" title="surang">surang</a>,
+   <a href="https://www.flaticon.com/authors/us-and-up" title="us-and-up">us-and-up</a>
+  from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
