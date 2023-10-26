@@ -16,6 +16,10 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+
+        <item name="windowSplashScreenBackground">@color/paleBlack</item>
+        <item name="android:windowSplashScreenAnimationDuration" tools:targetApi="s">5000</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="s">@drawable/recipe_book</item>
     </style>
     <style name="CustomBottomSheetDialog" parent="@style/ThemeOverlay.MaterialComponents.BottomSheetDialog">
         <item name="bottomSheetStyle">@style/CustomBottomSheet</item>
